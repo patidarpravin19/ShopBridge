@@ -1,0 +1,5 @@
+D:\Projects\Interview\.Net\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.dll
+D:\Projects\Interview\.Net\ShopBridge\ShopBridge.Entities\bin\Debug\ShopBridge.Entities.pdb
+D:\Projects\Interview\.Net\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.csprojResolveAssemblyReference.cache
+D:\Projects\Interview\.Net\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.dll
+D:\Projects\Interview\.Net\ShopBridge\ShopBridge.Entities\obj\Debug\ShopBridge.Entities.pdb
